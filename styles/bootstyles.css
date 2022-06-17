@@ -1,0 +1,55 @@
+.img{
+    width:40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+.img2{
+    width:60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.resize{
+    resize: both;
+    overflow: auto;
+}
+  
+.LinkText{
+    color: #2418d6;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.HeaderText{
+    color: black;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.SubHeaderText{
+    color: rgb(122, 120, 120);
+    font-weight: 50;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.italic{
+    font-style:italic;
+}
+
+.TitleText{
+    color: white;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.footer{
+    color:blue;
+    font-family:'Times New Roman', Times, serif
+}
+
+.background{
+    color:rgb(197, 178, 178);
+}
